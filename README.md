@@ -7,6 +7,7 @@
 - Introduction - the project's aim
 - Technologies
 - Launch
+- How dose it work
 - Features
 - Future updates
 
@@ -32,7 +33,15 @@ The three random sources are:
 
 ---
 
-Should should be launched over the node.js from the command line.
+Should be launched over the node.js from the command line.
+
+## How dose it work
+
+---
+
+There are 3 arrays (**when**, **what**, **condition**) which contain a list of words.
+The function "pickRandomElement" returns randomly one of the elements from the array which has been passed to it.
+A template literal than concatenates 3 functions (each with one of the arrays) to an sentence.
 
 ## Features
 
