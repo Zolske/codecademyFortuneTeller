@@ -48,7 +48,8 @@ A template literal than concatenates 3 functions (each with one of the arrays) t
 ---
 
 1. Random message made up of 3 random components.
-2. Text art picture to illustrate the fortune teller.
+2. Easily scalable, the array can be updated by simply adding more elements to it, without having to change anything else in the code.
+3. Text art picture to illustrate the fortune teller.
 
 ## Future updates
 
