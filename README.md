@@ -27,7 +27,7 @@ The three random sources are:
 
 ---
 
-- Java Script
+- JavaScript
 
 ## Launch
 
@@ -55,7 +55,7 @@ A template literal than concatenates 3 functions (each with one of the arrays) t
 
 ---
 
-1. [ ] using HTML, CSS and Java Script to create a website which is hosted on git hub
+1. [ ] using HTML, CSS and JavaScript to create a website which is hosted on git hub
 2. [ ] improved graphic
 3. [ ] a button to generate a new message
 4. [ ] background sound
